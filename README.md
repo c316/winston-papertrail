@@ -4,7 +4,10 @@ A wrapper around [winston-papertrail](https://github.com/kenperkins/winston-pape
 
 
 ##Install
-mrt add winston-papertrail
+
+Version 0.9.0 and above only:
+
+meteor add j4507:winston-papertrail
 
 ##Usage
 
